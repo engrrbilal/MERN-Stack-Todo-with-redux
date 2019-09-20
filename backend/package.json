@@ -1,0 +1,24 @@
+{
+    "name": "mern-stack-todo-app",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "mern stack todo",
+        "todo app",
+        "crud app mern stack",
+        "react todo with node"
+    ],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "cors": "^2.8.5",
+        "express": "^4.16.2",
+        "fawn": "^2.1.5",
+        "joi": "^13.7.0",
+        "mongoose": "^5.0.1"
+    }
+}
